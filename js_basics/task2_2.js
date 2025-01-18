@@ -15,3 +15,6 @@ while (i<=10) {
     console.log(`${initNumber2} x ${i} = ${result}`);
     i++
 }
+
+
+
