@@ -24,3 +24,4 @@ const square3 = (width , height) => {
     return rectangleArea
 }
 console.log(square3(5,2))
+
