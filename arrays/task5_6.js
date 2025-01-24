@@ -6,3 +6,4 @@ console.log(numbersList2)
 const numbersList3 = numbersList2.sort((a, b) => a - b)
 
 console.log(numbersList3)
+
