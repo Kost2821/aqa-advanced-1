@@ -1,5 +1,3 @@
-
-
 const devide = (numerator, denominator) => {
     try {
 
